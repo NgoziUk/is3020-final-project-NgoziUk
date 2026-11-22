@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Ngozi Ukadike
+- GitHub username: NgoziUk
+- Project title: Random Quote Generator
+- Application purpose: This Python application displays a random inspirational, motivational, or humorous quote each time the user runs the program.
 
 ## How to Run the Application
 
